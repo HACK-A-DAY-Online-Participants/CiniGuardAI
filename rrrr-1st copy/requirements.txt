@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-opencv-python
-ultralytics
-supabase
-python-dotenv
-python-multipart
-websockets
