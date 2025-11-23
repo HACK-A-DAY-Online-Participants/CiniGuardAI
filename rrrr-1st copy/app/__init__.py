@@ -1,1 +1,0 @@
-# CinemaGuard Application Package
